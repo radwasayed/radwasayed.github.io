@@ -1,0 +1,26 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Indie Flower', cursive;
+}
+.d-flex {
+    background-image: url("book_clouds_fantasy_125653_1920x1080.jpg");
+    background-size: cover;
+    height: 100%;
+}
+.d-flex .header h1 {
+    text-align: center;
+    color: white;
+    font-size: 4em;
+    font-weight: 700;
+}
+.d-flex .my .btn {
+    margin: auto;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 300px;
+    padding: 1rem 2rem;
+}
